@@ -1,7 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-   <h1>HTML Article on Links </h1>
-   <p><a href="https://docs.google.com/document/d/1eiJXgBdRw6tfxatx-Q1p6RdvwHlFl5E3w0ferd1xCxw/edit?usp=sharing/">Click this to navigate to the privacy policy page</a></p>
-</body>
-</html>
